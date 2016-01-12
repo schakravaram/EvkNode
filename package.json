@@ -1,0 +1,19 @@
+{
+  "name": "angularnodejs",
+  "version": "0.0.0",
+  "description": "angularnodejs",
+  "main": "MainGiphy.js",
+  "author": {
+    "name": "schakravaram",
+    "email": ""
+  },
+  "scripts": {
+    "Giphy": "node ./MainGiphy.js"
+  },
+  "dependencies" : {
+    "express"			: ">=4.7.2",
+    "serve-favicon"		: ">=2.3.0",
+    "http"				: ">=1.3.1",
+	"request"			: ">=2.67.0"
+  }
+}
